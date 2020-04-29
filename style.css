@@ -1,6 +1,6 @@
 main {
     width: 1024px;
-    height: 1000px;
+    height: 900px;
     position: absolute;
 }
 
@@ -8,7 +8,7 @@ main {
     width: 800px;
     height: 900px;
     margin: auto;
-    margin-left: 31%;
+    margin-left: 32%;
     align-items: center;
     justify-content: center;
     display: flex;
