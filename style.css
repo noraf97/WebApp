@@ -1,0 +1,28 @@
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
+
+
+
+
+#photo {
+    width: 700px;
+    height: 500px;
+    display: flex;
+    flex-grow: 6;
+}
+
+.viewer {
+    width: 900px;
+    height: 500px;
+    display: flex;
+}
+
+#right-arrow, #left-arrow {
+    display: flex;
+    flex-grow: 1;
+    border: yellow solid 1px;
+}
